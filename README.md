@@ -1,14 +1,10 @@
 <h1 align="center">¡Hola!, soy Jeremy Nazareth</h1>
-<h3 align="center">Un Ingeniero Informático</h3>
+<h3 align="center">Un Ingeniero Informático especializado en Frontend.</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://jeremynazareth.github.io/portfolio/](https://jeremynazareth.github.io/portfolio/)
 
-- 📫 ¿Cómo contactarme? **jer.reyesr@outlook.com**
+- 📫 ¿Cómo contactarme? **jer.reyesr@outlook.com** o **www.linkedin.com/in/jeremynazarethrr**
 
-<h3 align="left">Mis redes formales:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jeremynazarethrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeremynazarethrr" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <div align="left">
